@@ -22,8 +22,8 @@ This project is a simple Task Management API built using FastAPI. It allows you 
 1. Clone the repository:
 
    ```bash
-   git clone
-   cd
+   git clone https://github.com/Joeeazy/FastAPI_Crud.git
+   cd FastAPI_Crud
 
    ```
 
